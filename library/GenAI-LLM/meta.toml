@@ -1,0 +1,11 @@
+[folder]
+title = "GenAI & LLM"
+description = "GenAI & LLM related documents and PDF files."
+# order = 1                  # position among sibling folders (lower first)
+
+[pdf."1780802631971.pdf"]
+title = "Generative AI Design Patterns: Solutions to Common Challenges When Building GenAI Agents and Applications"
+authors = ["Valliappa Lakshmanan", "Hannes Hapke"]
+tags = ["generative ai", "llm", "agents", "design patterns"]
+description = "Reusable patterns for common problems in building GenAI agents and LLM applications."
+

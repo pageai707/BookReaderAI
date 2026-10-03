@@ -1,0 +1,11 @@
+
+[folder]
+title = "NLP - Natural Language Processing"
+description = "Books on Natural Language Process"
+# order = 2                  # position among sibling folders (lower first)
+
+[pdf."1706.03762v7.pdf"]
+title = "Attention All You Need"
+authors = ["Ashish Vaswani", "Noam Shazeer", "Niki Parmar", "Jakob Uszkoreit", "Llion Jones", "Aidan N. Gomez", "Lukasz Kaiser", "Illia Polosukhin"]
+tags = ["transformer", "deep learning", "LLM"]
+description = "A simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely"

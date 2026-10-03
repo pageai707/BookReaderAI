@@ -1,0 +1,13 @@
+# BookReader metadata for this folder and the PDFs in it.
+# Edit freely: `npm run sync` only appends entries for new PDFs and never changes what you wrote.
+
+[folder]
+title = "Machine Learning"
+description = "Books on machine learning, MLOps and distributed systems."
+# order = 2                  # position among sibling folders (lower first)
+
+[pdf."Practical MLOps.pdf"]
+title = "Practical MLOps: Operationalizing Machine Learning Models"
+authors = ["Noah Gift", "Alfredo Deza"]
+tags = ["mlops", "machine learning", "devops", "deployment"]
+description = "Taking machine learning models to production: automation, deployment, monitoring and operations."

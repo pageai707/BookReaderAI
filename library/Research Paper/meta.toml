@@ -1,0 +1,24 @@
+# BookReader metadata for this folder and the PDFs in it.
+# Edit freely: `npm run sync` only appends entries for new PDFs and never changes what you wrote.
+
+[folder]
+title = "Research Paper"
+description = "Papers and books on machine learning, MLOps and distributed systems."
+# order = 1                  # position among sibling folders (lower first)
+
+[pdf."1409.3215v3.pdf"]
+title = "Sequence to Sequence Learning with Neural Networks"
+authors = ["Ilya Sutskever", "Oriol Vinyals", "Quoc V. Le"]
+year = 2014
+tags = ["arxiv", "nlp", "lstm", "seq2seq", "machine translation"]
+description = "An encoder–decoder LSTM approach that maps input sequences to output sequences, evaluated on English-to-French translation."
+url = "https://arxiv.org/abs/1409.3215"
+
+[pdf."2602.11741v1.pdf"]
+title = "Designing Scalable Rate Limiting Systems: Algorithms, Architecture, and Distributed Solutions"
+authors = ["Bo Guan"]
+year = 2026
+tags = ["arxiv", "distributed systems", "rate limiting", "redis", "system design"]
+description = "A production rate-limiter architecture on Redis Sorted Sets, comparing token bucket, fixed window and rolling window algorithms."
+url = "https://arxiv.org/abs/2602.11741"
+
